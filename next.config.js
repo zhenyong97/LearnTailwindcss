@@ -10,4 +10,5 @@ nextConfig.webpack = (config, context) => {
     return config;
     };
 
+// console.log(nextConfig)
 module.exports = nextConfig
