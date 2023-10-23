@@ -7,6 +7,11 @@
         {
             "name": "jianshu-简书",
             "link": "demo/jianshu"
+        },
+        {
+            "name": "Ez-Login",
+            "link": "demo/ez-login"
         }
+
     ]
 }
