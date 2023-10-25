@@ -1,7 +1,6 @@
 import React from 'react'
 import ReactLogo from './react-logo.svg'
 import { Metadata } from 'next'
-import {  } from "@next/font/local"
 
 export const metadata: Metadata = {
     title: 'EZ-Login',
@@ -35,7 +34,7 @@ const page = (props: Props) => {
                         
                         <div className='flex flex-col justify-start'>
                             <label htmlFor="email_input" className="block text-[16px] font-medium font-sans leading-8 text-gray-900">Enter your email address</label>
-                            <input name='email_input' id='email_input' placeholder='name@example' type="text" className='focus:bg-gray-50 h-[50px]' />
+                            <input name='email_input' id='email_input' placeholder='name@example' type="text" className='border-gray-400 ring-black focus:border-0 focus:ring-gray-800 focus:bg-gray-50 h-[50px] rounded-lg' />
                             
                         </div>
                         <button className='mt-2 px-[130px] py-[15px] bg-slate-800 text-md text-white font-mono rounded-full hover:bg-slate-900' type='submit'>Continue</button>

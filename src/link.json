@@ -11,6 +11,10 @@
         {
             "name": "Ez-Login",
             "link": "demo/ez-login"
+        },
+        {
+            "name": "Ez-Home",
+            "link": "demo/ez-Home"
         }
 
     ]
