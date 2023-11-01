@@ -16,9 +16,13 @@ const config: Config = {
       },
       fontFamily: {
         'login-title': ['Renogare', 'sans-serif'],
+      },
+      boxShadow: {
+        middle: "var(--tw-ring-offset-shadow,0 0 #000000)"
       }
     },
   },
   plugins: [require('@tailwindcss/forms')],
+  darkMode: "class"
 }
 export default config
