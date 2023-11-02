@@ -18,7 +18,7 @@ const page = (props: Props) => {
     <div className='max-h-screen h-screen '>
 
         {/* header */}
-        <div className='h-[64px] w-full flex items-center justify-center bg-slate-50 px-2'>
+        <div className='h-[64px] w-full flex items-center  bg-slate-50 px-2'>
             <div className='sm:justify-center flex flex-1'>
                 <ReactLogo className='w-[60px] h-[50px] cursor-pointer' />
             </div>

@@ -18,4 +18,10 @@
   html {
     font-family: font-mono font-sans ;
   }
+
+}
+/* 将需要重用的class 重新包装成另外一个class  直接声明一个选择器就可以，然后后面你找一个元素class='content' 就可以用了 当然这里是可以写原生样式的*/
+.content {
+  width: 320px;
+  @apply h-screen bg-slate-500
 }

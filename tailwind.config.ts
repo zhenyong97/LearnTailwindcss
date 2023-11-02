@@ -23,6 +23,10 @@ const config: Config = {
     },
   },
   plugins: [require('@tailwindcss/forms')],
-  darkMode: "class"
+  darkMode: "class",
+  corePlugins: { 
+    preflight: true,
+  }
 }
+// preflight: false 访问EZ-home 这个h1的样式就是原生浏览器定义的样式了 Taildwind的预设样式并不会生效，当然tialwind是把他们的预设样式都除掉的，所有的配置都由你自己来配置原子类
 export default config

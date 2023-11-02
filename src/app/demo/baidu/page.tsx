@@ -70,14 +70,14 @@ export const metadata: Metadata = {
                 {/* content-content */}
                 <div className='flex mt-3 justify-around w-[600px]'>
                     <div className='flex flex-col basis-1/2'>
-                        <a href="#" className='flex items-center'><TopSideLogo className='mr-3 w-[16px] h-[18px] cursor-pointer stroke-2  stroke-red-600' /> <span>祝贺皇嫂荣升架构师</span> </a>
-                        <a href="#" className='flex items-center' ><span className='text-lg font-medium text-red-600 mr-4'>1</span> 祝贺皇嫂荣升架构师</a>
-                        <a href="#" className='flex items-center'><span className='text-lg font-medium text-red-400 mr-4'>2</span> 祝贺皇嫂荣升架构师</a>
+                        <a href="#" className='flex items-center'><TopSideLogo className='mr-3 w-[16px] h-[18px] cursor-pointer stroke-2  stroke-red-600' /> <span>asdasdasdasdasdasd</span> </a>
+                        <a href="#" className='flex items-center' ><span className='text-lg font-medium text-red-600 mr-4'>1</span>asdasdasdasdasdasd</a>
+                        <a href="#" className='flex items-center'><span className='text-lg font-medium text-red-400 mr-4'>2</span>asdasdasdasdasdasd</a>
                     </div>
                     <div className='flex flex-col  basis-1/2 '>
-                        <a href="#" ><span className='text-lg font-semibold text-red-300 mr-3'>3</span> <span>祝贺皇嫂荣升架构师 </span> <span className='ml-2 bg-orange-500 px-[4px] py-[2px] rounded-md text-white text-sm/[3px] '>热</span></a>
-                        <a href="#" className='flex items-center' ><span className='text-lg font-medium text-gary-500 mr-4'>4</span> 祝贺伟哥进入香蕉互联</a>
-                        <a href="#" className='flex items-center' ><span className='text-lg font-medium text-gray-500 mr-4'>5</span> 祝贺皇嫂荣升架构师sdfsdfs</a>
+                        <a href="#" ><span className='text-lg font-semibold text-red-300 mr-3'>3</span> <span> </span> <span className='ml-2 bg-orange-500 px-[4px] py-[2px] rounded-md text-white text-sm/[3px] '>热</span></a>
+                        <a href="#" className='flex items-center' ><span className='text-lg font-medium text-gary-500 mr-4'>4</span>asdasdasdasdasdasd</a>
+                        <a href="#" className='flex items-center' ><span className='text-lg font-medium text-gray-500 mr-4'>5</span>asdasdasdasdasdasd</a>
                     </div>
                 </div>
             </div>
