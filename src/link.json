@@ -15,6 +15,10 @@
         {
             "name": "Ez-Home",
             "link": "demo/ez-home"
+        },
+        {
+            "name": "Ez-Iframe",
+            "link": "demo/ez-iframe"
         }
 
     ]
